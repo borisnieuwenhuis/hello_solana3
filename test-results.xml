@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="0.438" tests="1" failures="0">
+  <testsuite name="Root Suite" timestamp="2025-04-01T09:58:18" tests="0" time="0.000" failures="0">
+  </testsuite>
+  <testsuite name="hello-solana" timestamp="2025-04-01T09:58:18" tests="1" file="/Users/boris/projects/crunch/playground/hello_solana3/tests/test.ts" time="0.432" failures="0">
+    <testcase name="hello-solana Say hello!" time="0.432" classname="Say hello!">
+    </testcase>
+  </testsuite>
+</testsuites>
