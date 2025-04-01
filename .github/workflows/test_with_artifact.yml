@@ -29,6 +29,6 @@ on:
 
 jobs:
   test:
-    uses: solana-developers/github-workflows/blob/main/.github/workflows/test.yaml@v0.2.5
+    uses: solana-developers/github-workflows/.github/workflows/test.yaml@v0.2.5
     with:
       program: hello_solana
